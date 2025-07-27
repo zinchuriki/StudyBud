@@ -19,4 +19,4 @@ StudyBud is a real-time web application designed to help students connect, colla
 🛠️ Tech Stack
 Backend: Django, Django REST Framework
 
-Frontend: HTML5, CSS3, JavaScript (Template-based or React if you added that)
+Frontend: HTML5, CSS3, JavaScript
