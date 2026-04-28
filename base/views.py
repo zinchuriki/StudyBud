@@ -182,7 +182,7 @@ def deleteMessage(request, pk):
     message = Message.objects.get(id=pk)
 
     if request.user != message.user:
-        return HttpResponse("fuck off bruh dont be smart")
+        return HttpResponse("bruh dont be smart")
 
     if request.method == "POST":
         message.delete()
